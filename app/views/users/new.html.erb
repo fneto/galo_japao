@@ -1,0 +1,53 @@
+<!-- Contact Section
+    ==========================================-->
+<div id="tf-home" class="text-center" style="height: 900px">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-md-8 col-md-offset-2">
+
+        <div class="section-title center">
+          <h2>Participe do <strong>Sorteio</strong></h2>
+          <div class="line">
+            <hr>
+          </div>
+          <div class="clearfix"></div>
+            <small><em>Todos os campos são obrigatórios, o sorteio ocorre no dia 07/09/2016</em></small>            
+        </div>
+        <%= simple_form_for @user do |f| %>
+        <div class="col-md-4 col-md-offset-2">
+          <%= f.input :nome %>
+          <%= f.input :cpf, input_html: { 'alt': "cpf"} %>
+          <%= f.input :email %>
+          <%= f.input :telefone, input_html: { 'alt': "(99) 9999-99999"} %>
+          <%= f.input :cep %>
+        </div>
+        <div class="col-md-4">
+          <%= f.input :rua %>
+          <%= f.input :numero %>
+          <%= f.input :complemento %>
+          <%= f.input :bairro %>
+        </div>
+      <div class="row">
+        <div class="col-md-8 col-md-offset-2">
+          <%= f.button :submit %>
+        </div>
+      </div>
+    </div>
+    <% end %>
+      </div>
+  </div>
+  <script type="text/javascript">
+    jQuery(function ($) {
+     $('input[type="text"]').setMask();
+    });
+
+
+  // Nono dígito
+  $('#user_telefone').change(function(){
+    if(this.value.length > 14) {
+      $('#user_telefone').setMask("(99) 99999-9999")
+    }
+  })
+    
+  </script>

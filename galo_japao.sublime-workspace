@@ -1,0 +1,980 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tra",
+				"transferencia_autorizada"
+			],
+			[
+				"tran",
+				"transition"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"demanda",
+				"demanda_id"
+			],
+			[
+				"navbar",
+				"navbar-form"
+			],
+			[
+				"you",
+				"youtube_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/layouts/application.html.erb",
+			"settings":
+			{
+				"buffer_size": 2902,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 688,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/new.html.erb",
+			"settings":
+			{
+				"buffer_size": 1536,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 33.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: a"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 201.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/fneto/rails_apps/galo_japao",
+		"/home/fneto/rails_apps/galo_japao/app",
+		"/home/fneto/rails_apps/galo_japao/app/assets",
+		"/home/fneto/rails_apps/galo_japao/app/assets/images",
+		"/home/fneto/rails_apps/galo_japao/app/assets/javascripts",
+		"/home/fneto/rails_apps/galo_japao/app/assets/stylesheets",
+		"/home/fneto/rails_apps/galo_japao/app/controllers",
+		"/home/fneto/rails_apps/galo_japao/app/views",
+		"/home/fneto/rails_apps/galo_japao/app/views/layouts",
+		"/home/fneto/rails_apps/galo_japao/app/views/main",
+		"/home/fneto/rails_apps/galo_japao/app/views/users"
+	],
+	"file_history":
+	[
+		"/home/fneto/rails_apps/galo_japao/app/assets/javascripts/jquery-mask-nono-digito.js",
+		"/home/fneto/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/fneto/rails_apps/galo_japao/app/views/main/index.html.erb",
+		"/home/fneto/rails_apps/galo_japao/app/controllers/main_controller.rb",
+		"/home/fneto/rails_apps/galo_japao/app/views/main/regulamento.html.erb",
+		"/home/fneto/rails_apps/galo_japao/app/models/user.rb",
+		"/home/fneto/rails_apps/galo_japao/app/views/users/new.html.erb",
+		"/home/fneto/rails_apps/galo_japao/app/assets/stylesheets/style.css",
+		"/home/fneto/rails_apps/galo_japao/config/routes.rb",
+		"/home/fneto/rails_apps/galo_japao/app/controllers/users_controller.rb",
+		"/home/fneto/rails_apps/galo_japao/app/views/layouts/application.html.erb",
+		"/home/fneto/rails_apps/galo_japao/app/helpers/application_helper.rb",
+		"/home/fneto/rails_apps/galo_japao/app/assets/javascripts/application.js",
+		"/home/fneto/rails_apps/galo_japao/Gemfile",
+		"/home/fneto/rails_apps/galo_japao/config/application.rb",
+		"/home/fneto/rails_apps/galo_japao/config/initializers/inflections.rb",
+		"/home/fneto/Desktop/tf-free-no.3/index.html",
+		"/home/fneto/rails_apps/Work4Me/Gemfile",
+		"/home/fneto/rails_apps/Work4Me/app/models/pagamento.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/mensagens/_form.html.slim",
+		"/home/fneto/rails_apps/Work4Me/config/routes.rb",
+		"/home/fneto/rails_apps/Work4Me/app/controllers/application_controller.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/layouts/application.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/new.html.slim",
+		"/home/fneto/rails_apps/Work4Me/config/secrets.yml",
+		"/home/fneto/rails_apps/Work4Me/app/controllers/pagamentos_controller.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/pages/home.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/models/user.rb",
+		"/home/fneto/rails_apps/Work4Me/config/initializers/devise.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/pagamentos/new.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/interessado.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/assets/stylesheets/application.css",
+		"/home/fneto/rails_apps/Work4Me/app/assets/stylesheets/bootstrap_and_overrides.css.less",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/desativar.js.erb",
+		"/home/fneto/rails_apps/Work4Me/app/assets/javascripts/demanda.coffee",
+		"/home/fneto/rails_apps/Work4Me/app/assets/javascripts/application.js",
+		"/home/fneto/rails_apps/Work4Me/app/controllers/demandas_controller.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/show.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/administrar.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/index.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/controllers/mensagens_controller.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/mensagens/create.js.erb",
+		"/home/fneto/rails_apps/Work4Me/test/fixtures/pagamentos.yml",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150821184828_create_pagamentos.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/_cabecalho_demandas.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/helpers/application_helper.rb",
+		"/home/fneto/rails_apps/Work4Me/app/models/demanda_user.rb",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150820175358_add_ativa_to_demanda.rb",
+		"/home/fneto/.config/sublime-text-3/Packages/User/strftime.sublime-snippet",
+		"/home/fneto/rails_apps/Work4Me/app/models/demanda.rb",
+		"/home/fneto/.config/sublime-text-3/Packages/User/interrogacao.sublime-snippet",
+		"/home/fneto/rails_apps/Work4Me/app/models/mensagem.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/mensagens/new.js.erb",
+		"/home/fneto/rails_apps/Work4Me/app/views/mensagens/user.js.erb",
+		"/home/fneto/rails_apps/Work4Me/app/views/mensagens/_painel_mensagem.html.slim",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150817193446_add_nome_to_user.rb",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150814193315_create_mensagens.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/demandas/create.html.slim",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150814192440_add_user_to_demanda.rb",
+		"/home/fneto/rails_apps/Work4Me/app/models/demanda_tipo.rb",
+		"/home/fneto/rails_apps/Work4Me/config/locales/ransack.pt-BR.yml",
+		"/home/fneto/rails_apps/Work4Me/config/application.rb",
+		"/home/fneto/rails_apps/Work4Me/config/locales/will_paginate.pt-BR.yml",
+		"/home/fneto/rails_apps/Work4Me/app/assets/javascripts/bootstrap-wysihtml5.pt-BR.js",
+		"/home/fneto/rails_apps/Work4Me/config/initializers/bootsy.rb",
+		"/home/fneto/rails_apps/Work4Me/config/locales/bootsy.pt-BR.yml",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150811203638_add_resumo_to_demanda.rb",
+		"/home/fneto/rails_apps/Work4Me/config/locales/devise.pt-BR.yml",
+		"/home/fneto/rails_apps/Work4Me/config/locales/pt-BR.yml",
+		"/home/fneto/rails_apps/Work4Me/config/locales/simple_form.pt-BR.yml",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150811182320_change_descricao_demanda.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/demanda/new.html.slim",
+		"/home/fneto/rails_apps/Work4Me/config/initializers/inflections.rb",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150811132128_add_demanda_tipo_to_demanda.rb",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150811131747_create_demandas.rb",
+		"/home/fneto/rails_apps/Work4Me/app/views/layouts/teste.html.slim",
+		"/home/fneto/rails_apps/Work4Me/app/controllers/omniauth_callbacks_controller.rb",
+		"/home/fneto/rails_apps/Work4Me/db/migrate/20150810194913_devise_create_users.rb",
+		"/home/fneto/rails_apps/Work4Me/app/models/identity.rb",
+		"/home/fneto/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/fneto/rails_apps/Work4Me/app/views/layouts/application.html.erb",
+		"/home/fneto/rails_apps/log7/app/controllers/apps_controller.rb",
+		"/home/fneto/rails_apps/log7/app/views/transportes/index.html.erb",
+		"/home/fneto/rails_apps/log7/app/controllers/diarias_controller.rb",
+		"/home/fneto/rails_apps/log7/app/mailers/alerts_mailer.rb",
+		"/home/fneto/rails_apps/log7/app/views/transportes/datatable.js.erb",
+		"/home/fneto/rails_apps/log7/app/models/transporte.rb",
+		"/home/fneto/rails_apps/log7/app/controllers/transportes_controller.rb",
+		"/home/fneto/rails_apps/log7/Gemfile",
+		"/home/fneto/rails_apps/log7/app/controllers/concerns/importacao_transporte.rb",
+		"/home/fneto/rails_apps/log7/app/controllers/veiculos_controller.rb",
+		"/home/fneto/rails_apps/log7/app/models/veiculo.rb",
+		"/home/fneto/rails_apps/log7/app/views/veiculos/_form.html.erb",
+		"/home/fneto/rails_apps/log7/config/initializers/custom.rb",
+		"/home/fneto/rails_apps/log7/app/models/device_token.rb",
+		"/home/fneto/rails_apps/log7/app/views/transportes/detalhes/_dados_recebedores.html.slim",
+		"/home/fneto/rails_apps/log7/app/views/alerts_mailer/diaria.html.erb",
+		"/home/fneto/rails_apps/log7/app/models/transporte_motorista.rb",
+		"/home/fneto/rails_apps/log7/app/helpers/treinamentos_helper.rb",
+		"/home/fneto/rails_apps/log7/app/controllers/application_controller.rb",
+		"/home/fneto/rails_apps/rails_apps/log7/app/controllers/application_controller.rb"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"te",
+			"Vamos ",
+			"Vamos",
+			"\n        ",
+			"flash",
+			"bootstrap_flash",
+			"01.jpg",
+			"datatable",
+			"root",
+			"post 'mensagens/new'\n  get 'mensagens/user/:id', to: 'mensagens#user'",
+			"teste",
+			"bootsy",
+			"en",
+			"local",
+			"number_field_tag",
+			"row",
+			"report_type",
+			"type",
+			"you",
+			"set",
+			"yt_cl",
+			"syck",
+			"syxk",
+			"rastrea",
+			"gv",
+			"aaa",
+			"datatable",
+			"httparty",
+			"user_id",
+			"user_i",
+			"update",
+			"user",
+			"user_",
+			"user_id",
+			"user",
+			"cl",
+			"integracao",
+			"xml_parse",
+			"cliente.",
+			"xml_parse_gv",
+			"def xml_parse",
+			"logger",
+			"impor",
+			"im",
+			"def imp",
+			"def impo",
+			"def inte",
+			"importa",
+			"logger",
+			"erro",
+			"status",
+			"transporte_motoristas",
+			"TransporteMotorista",
+			"consulta_ov"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/layouts/application.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2902,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 688,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								648,
+								648
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/views/users/new.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1536,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1207,
+								1207
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "galo_japao.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"new",
+				"app/views/users/new.html.erb"
+			],
+			[
+				"app",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appl",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"applicationhe",
+				"app/helpers/application_helper.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"maincon",
+				"app/controllers/main_controller.rb"
+			],
+			[
+				"user.",
+				"app/models/user.rb"
+			],
+			[
+				"style",
+				"app/assets/stylesheets/style.css"
+			],
+			[
+				"rou",
+				"config/routes.rb"
+			],
+			[
+				"userco",
+				"app/controllers/users_controller.rb"
+			],
+			[
+				"st",
+				"app/assets/stylesheets/style.css"
+			],
+			[
+				"ind",
+				"app/views/main/index.html.erb"
+			],
+			[
+				"infle",
+				"config/initializers/inflections.rb"
+			],
+			[
+				"appli",
+				"config/application.rb"
+			],
+			[
+				"route",
+				"config/routes.rb"
+			],
+			[
+				"paga",
+				"app/models/pagamento.rb"
+			],
+			[
+				"mensacon",
+				"app/controllers/mensagens_controller.rb"
+			],
+			[
+				"_form",
+				"app/views/mensagens/_form.html.slim"
+			],
+			[
+				"layouapp",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"demandacontro",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"show",
+				"app/views/demandas/show.html.slim"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"pagamentoscon",
+				"app/controllers/pagamentos_controller.rb"
+			],
+			[
+				"dem",
+				"app/models/demanda.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"secret",
+				"config/secrets.yml"
+			],
+			[
+				"demandanew",
+				"app/views/demandas/new.html.slim"
+			],
+			[
+				"home",
+				"app/views/pages/home.html.slim"
+			],
+			[
+				"applicationcon",
+				"app/controllers/application_controller.rb"
+			],
+			[
+				"devise",
+				"config/initializers/devise.rb"
+			],
+			[
+				"user",
+				"app/models/user.rb"
+			],
+			[
+				"pagamentocon",
+				"app/controllers/pagamentos_controller.rb"
+			],
+			[
+				"pagamento",
+				"app/models/pagamento.rb"
+			],
+			[
+				"applicajs",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"demanda.c",
+				"app/assets/javascripts/demanda.coffee"
+			],
+			[
+				"demanda.js",
+				"app/views/demandas/desativar.js.erb"
+			],
+			[
+				"overr",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"applicacss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"intress",
+				"app/views/demandas/interessado.html.slim"
+			],
+			[
+				"pagametno.",
+				"app/models/pagamento.rb"
+			],
+			[
+				"demadnacon",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"form",
+				"app/views/mensagens/_form.html.slim"
+			],
+			[
+				"pagamentoew",
+				"app/views/pagamentos/new.html.slim"
+			],
+			[
+				"pagamentos",
+				"test/fixtures/pagamentos.yml"
+			],
+			[
+				"demandascon",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"intere",
+				"app/views/demandas/interessado.html.slim"
+			],
+			[
+				"admin",
+				"app/views/demandas/administrar.html.slim"
+			],
+			[
+				"index",
+				"app/views/demandas/index.html.slim"
+			],
+			[
+				"layoutappl",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"mensagenscon",
+				"app/controllers/mensagens_controller.rb"
+			],
+			[
+				"demandauser",
+				"app/models/demanda_user.rb"
+			],
+			[
+				"user.rb",
+				"app/models/user.rb"
+			],
+			[
+				"demandascontr",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"layoutapp",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"applicat",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"demandacof",
+				"app/assets/javascripts/demanda.coffee"
+			],
+			[
+				"demandacontr",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"bootstraoverr",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"applica",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"demanda.rb",
+				"app/models/demanda.rb"
+			],
+			[
+				"demadascon",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"layouts",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"appcss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"aplicacss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"demandacon",
+				"app/controllers/demandas_controller.rb"
+			],
+			[
+				"mensagescon",
+				"app/controllers/mensagens_controller.rb"
+			],
+			[
+				"_fo",
+				"app/views/mensagens/_form.html.slim"
+			],
+			[
+				"mensage",
+				"app/models/mensagem.rb"
+			],
+			[
+				"from",
+				"app/views/mensagens/_form.html.slim"
+			],
+			[
+				"demandaus",
+				"app/models/demanda_user.rb"
+			],
+			[
+				"demanda",
+				"app/models/demanda.rb"
+			],
+			[
+				"demandashow",
+				"app/views/demandas/show.html.slim"
+			],
+			[
+				"mensagenscontr",
+				"app/controllers/mensagens_controller.rb"
+			],
+			[
+				"applicaticss",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"gemfi",
+				"Gemfile"
+			],
+			[
+				"demanda.",
+				"app/models/demanda.rb"
+			],
+			[
+				"demanda.tb",
+				"app/models/demanda_tipo.rb"
+			],
+			[
+				"ge",
+				"Gemfile"
+			],
+			[
+				"applicahtml",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"overri",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"rout",
+				"config/routes.rb"
+			],
+			[
+				"demandasnew",
+				"app/views/demandas/new.html.slim"
+			],
+			[
+				"boot",
+				"config/initializers/bootsy.rb"
+			],
+			[
+				"inde",
+				"app/views/demandas/index.html.slim"
+			],
+			[
+				"bootsy",
+				"config/initializers/bootsy.rb"
+			],
+			[
+				"over",
+				"app/assets/stylesheets/bootstrap_and_overrides.css.less"
+			],
+			[
+				"demannew",
+				"app/views/demandas/new.html.slim"
+			],
+			[
+				"application.",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"omniau",
+				"app/controllers/omniauth_callbacks_controller.rb"
+			],
+			[
+				"ident",
+				"app/models/identity.rb"
+			],
+			[
+				"gemf",
+				"Gemfile"
+			],
+			[
+				"applsl",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"ap",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"appica",
+				"app/assets/stylesheets/application.css"
+			],
+			[
+				"treinamento",
+				"app/views/relatorios/treinamento_transportadora.html.erb"
+			],
+			[
+				"treinamentomo",
+				"app/views/relatorios/treinamento_motorista.html.erb"
+			],
+			[
+				"relatorioscon",
+				"app/controllers/relatorios_controller.rb"
+			],
+			[
+				"transportecontr",
+				"app/controllers/transportes_controller.rb"
+			],
+			[
+				"treinamentohe",
+				"app/helpers/treinamentos_helper.rb"
+			],
+			[
+				"treinamentocon",
+				"app/controllers/treinamentos_controller.rb"
+			],
+			[
+				"treinamentonew",
+				"app/views/treinamentos/new.html.erb"
+			],
+			[
+				"transportecon",
+				"app/controllers/transportes_controller.rb"
+			],
+			[
+				"transporte.rb",
+				"app/models/transporte.rb"
+			],
+			[
+				"alert",
+				"app/mailers/alerts_mailer.rb"
+			],
+			[
+				"diariascon",
+				"app/controllers/diarias_controller.rb"
+			],
+			[
+				"transportecont",
+				"app/controllers/transportes_controller.rb"
+			],
+			[
+				"transportesdata",
+				"app/views/transportes/datatable.js.erb"
+			],
+			[
+				"transportesinde",
+				"app/views/transportes/index.html.erb"
+			],
+			[
+				"veiculoform",
+				"app/views/veiculos/_form.html.erb"
+			],
+			[
+				"veiculo.rb",
+				"app/models/veiculo.rb"
+			],
+			[
+				"veiculocontr",
+				"app/controllers/veiculos_controller.rb"
+			],
+			[
+				"importacaotra",
+				"app/controllers/concerns/importacao_transporte.rb"
+			],
+			[
+				"transportedeta",
+				"app/views/transportes/detalhes/_dados_recebedores.html.slim"
+			],
+			[
+				"importatra",
+				"app/controllers/concerns/importacao_transporte.rb"
+			],
+			[
+				"custom",
+				"config/initializers/custom.rb"
+			],
+			[
+				"transporecon",
+				"app/controllers/transportes_controller.rb"
+			],
+			[
+				"transporte.r",
+				"app/models/transporte.rb"
+			],
+			[
+				"devicet",
+				"app/models/device_token.rb"
+			],
+			[
+				"appscontrole",
+				"app/controllers/apps_controller.rb"
+			],
+			[
+				"appcon",
+				"app/controllers/application_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/sublime-projects/Work4Me.sublime-project"
+			],
+			[
+				"lo",
+				"~/sublime-projects/log7.sublime-project"
+			],
+			[
+				"lgo",
+				"~/log7.sublime-workspace"
+			],
+			[
+				"stra",
+				"~/sublime-projects/stratum.sublime-project"
+			],
+			[
+				"stratum",
+				"~/sublime-projects/stratum.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 269.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
