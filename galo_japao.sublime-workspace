@@ -51,7 +51,7 @@
 			"file": "app/views/users/new.html.erb",
 			"settings":
 			{
-				"buffer_size": 1536,
+				"buffer_size": 1569,
 				"line_ending": "Unix"
 			}
 		},
@@ -335,7 +335,7 @@
 	"groups":
 	[
 		{
-			"selected": 5,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -402,15 +402,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1536,
+						"buffer_size": 1569,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1207,
-								1207
+								1048,
+								1048
 							]
 						],
 						"settings":
@@ -423,7 +423,7 @@
 						"translation.y": 153.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 4,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
@@ -453,7 +453,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 3,
+					"stack_index": 4,
 					"type": "text"
 				},
 				{
@@ -481,7 +481,7 @@
 						"translation.y": 459.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -511,7 +511,7 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				},
 				{
@@ -541,7 +541,7 @@
 						"translation.y": 699.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 3,
 					"type": "text"
 				}
 			]
@@ -1097,9 +1097,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "simple",
+		"last_filter": "a",
 		"selected_items":
 		[
+			[
+				"a",
+				"~/sublime-projects/app_bba.sublime-project"
+			],
 			[
 				"simple",
 				"~/sublime-projects/Work4Me.sublime-project"
